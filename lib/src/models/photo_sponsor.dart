@@ -1,5 +1,5 @@
-import 'package:unsplash_api_dart/models/photo_sponsor_link.dart';
-import 'package:unsplash_api_dart/models/photo_tag.dart';
+import 'photo_sponsor_link.dart';
+import 'photo_tag.dart';
 
 class PhotoSponsor {
   int id;

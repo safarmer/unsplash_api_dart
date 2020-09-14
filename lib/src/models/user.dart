@@ -1,5 +1,5 @@
-import 'package:unsplash_api_dart/models/user_links.dart';
-import 'package:unsplash_api_dart/models/user_profile_image.dart';
+import 'user_links.dart';
+import 'user_profile_image.dart';
 
 class User {
   String id;

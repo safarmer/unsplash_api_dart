@@ -1,4 +1,4 @@
-import 'package:unsplash_api_dart/models/photo.dart';
+import 'photo.dart';
 
 class SearchPhotoResult {
   int total;

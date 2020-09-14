@@ -1,9 +1,9 @@
-import 'package:unsplash_api_dart/models/photo_exif.dart';
-import 'package:unsplash_api_dart/models/photo_link.dart';
-import 'package:unsplash_api_dart/models/photo_location.dart';
-import 'package:unsplash_api_dart/models/photo_tag.dart';
-import 'package:unsplash_api_dart/models/photo_urls.dart';
-import 'package:unsplash_api_dart/models/user.dart';
+import 'photo_exif.dart';
+import 'photo_link.dart';
+import 'photo_location.dart';
+import 'photo_tag.dart';
+import 'photo_urls.dart';
+import 'user.dart';
 
 class Photo {
   String id;

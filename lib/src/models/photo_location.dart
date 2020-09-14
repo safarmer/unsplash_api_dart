@@ -1,4 +1,4 @@
-import 'package:unsplash_api_dart/models/photo_location_position.dart';
+import 'photo_location_position.dart';
 
 class PhotoLocation {
   String title;
